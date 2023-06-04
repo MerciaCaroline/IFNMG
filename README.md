@@ -1,6 +1,8 @@
 # IFNMG
 Esse repositório contém algumas atividades e trabalhos feitos em todas as disciplinas tecnicas do curso Tecnico em Informatica para internet do INFMG - Campus Avançado Janauba
 
+Os trabalhos contidos nesse repositório foram enviados em Junho de 2023 como forma de backup. Nenhum código foi executado ou testado, podendo haver arquivos corrompidos ou incompletos.
+
 ## Desenvolvimento WEB I e II 
 Durante essa disciplina foram explorados os princípios basicos de desenvolvimento de sites em HTML, CSS e PHP.  Uso do framwork Bootstrap e do CMS Joomla! 
 
